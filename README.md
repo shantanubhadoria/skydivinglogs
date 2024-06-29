@@ -1,6 +1,6 @@
 # Angular on Firebase App Hosting
 
-This is an example [Angular](https://angular.dev/) project to demonstrate SSG,
+This is an example [Angular](https://angular.dev/) project to demonstrate SSG for displaying skydiving logs,
 SSR, and deferrable views on [Firebase App Hosting](https://firebase.google.com/docs/app-hosting).
 
 ## Getting Started
